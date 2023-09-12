@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@chatscope/chat-ui-kit-react": "^1.10.1",
+    "axios": "^1.4.0",
+    "openai": "^4.0.0",
+    "react-hooks-form": "^2.0.1"
+  }
+}
